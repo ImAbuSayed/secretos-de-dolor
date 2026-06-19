@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/secretos-de-dolor/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Secretos de dolor](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/secretos-de-dolor/) |
+| **Get License** | [Request Licensing for Secretos de dolor](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/secretos-de-dolor/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Mami, tú eres mi secreto de dolor
+> Un fuego lento que me quema sin control
+> Me tienes adicto a tu cuerpo, por favor
+> No me dejes esta noche sin tu calor
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
