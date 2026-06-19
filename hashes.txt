@@ -5,6 +5,7 @@ This log tracks the cryptographic history and versioning for the song **Secretos
 | Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
 |:----------|:--------|:-------------------|:-----------------|:------------|
 | 2026-06-20T00:58:08.006416 | `v1` | `9bcb51b31e5666750276c17e620fcc9f509e1a44eb42d752870753b206d809fc` | `111b6a064b9570e9c3845069b1d3a1230a6e2f6af06ca8ba828ddd32b75d54f9` | `2026-06-20_secretos-de-dolor-v1.txt` |
+| 2026-06-20T01:00:19.184771 | `v2` | `78834573b37bd6b4b4e420f215eaf2bd53dc0bf6a8bd2534115d81a5166f4cb0` | `6678c46833b15740b9a068305759394a37b43baa92a215e03c684f37bb03cde4` | `2026-06-20_secretos-de-dolor-v2.txt` |
 
 ---
 *Written and Curated by Abu Sayed*
